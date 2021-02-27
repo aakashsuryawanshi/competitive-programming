@@ -51,8 +51,11 @@ Superset, Apache Camel, Kubernetes, postgres, python, BERT, keycloak, Jmeter, bl
 ------------
 
 **Project Name**: Talent API
+
 **Project Brief**: On boarding complete recruitment process.
+
 Technologies & Languages: Angular, Spring(MVC + Hibernate + security), Docker, Elasticsearch, BERT
+
 **Responsibilities**:
 - Responsible for leading a team of 3.
 - Responsible for taking entire ownership of product and make it production ready deployable.
@@ -63,10 +66,12 @@ Technologies & Languages: Angular, Spring(MVC + Hibernate + security), Docker, E
 ------------
 
 **Project Name**: Nia Knowledge
+
 **Project Brief**: Data analytics tool which creates knowledge graph based on structured and unstructured
 data and provides visualizations, dashboards and reports for the same.
 Technologies & Languages: Java(Spring MVC), Python, PostgreSQL, Angularjs, HTML, CSS,
 Apache POI, Apache PDFBox and used spacy for NLP
+
 **Responsibilities:**
 - Responsible for creating knowledge graph for unstructured data(docx, pdf).
 - Responsible for extracting data from different sources (docx, pdf) and converting unstructured data
@@ -80,9 +85,12 @@ Apache POI, Apache PDFBox and used spacy for NLP
 
 
 **Project Name**: Infosys Chatbot
+
 **Project Brief**: A chatbot which interacts with Nia Knowledge and based on knowledge graph it responds to
 user queries.
+
 **Technologies & Languages**: Java(Spring MVC), Python, Angularjs, HTML, CSS, Apache Solr and used spacy for NLP
+
 **Responsibilities:**
 - Responsible for exposing and accessing APIs.
 - Responsible for creating an interactions layer between Nia Knowledge and Chatbot.
@@ -93,9 +101,11 @@ user queries.
 ------------
 
 **Project Name**: Contract Analysis and Nia Vision
+
 **Project Brief**: Analyze different contracts/agreements, images, video and extract all terminologies form it
 and also analyze and extract information out of it.
 Technologies & Languages: Python, YOLO Object detection API, tesseract, HTML, CSS, jQuery
+
 **Responsibilities:**
 - Responsible for feature development and exposing/accessing APIs.
 - Responsible for correcting falsely(partially) detected objects.
@@ -106,8 +116,10 @@ Technologies & Languages: Python, YOLO Object detection API, tesseract, HTML, CS
 ------------
 
 **Project Name**: Online Hiring System
+
 **Project Brief**: Onboard complete hiring process for an organization
 Technologies & Languages: Java(Spring MCV, Hibernate).MySQL.
+
 **Responsibilities:**
 - Responsible exposing APIs.
 - Responsible for DB interactions.
