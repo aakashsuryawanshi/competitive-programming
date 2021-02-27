@@ -34,11 +34,13 @@
 
 ------------
 
-
 **Project Name**: Marketplace
+
 **Project Brief**: A freelancing site for all IT and Non-IT job providers and seekers.
+
 **Technologies & Languages**: Spring(MVC + Hibernate + security), Docker, Elasticsearch, Apache Kafka, Apache
 Superset, Apache Camel, Kubernetes, postgres, python, BERT, keycloak, Jmeter, blazemeter,
+
 **Responsibilities**:
 - Responsible for leading a team of 7.
 - Responsible for owning 11 out of 19 micro services.
