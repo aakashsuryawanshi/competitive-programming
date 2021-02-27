@@ -1,6 +1,6 @@
 
 ## Akash Suryawanshi 
-
+( s.akashb@gmail.com | 7387698440 )
 ### Professional Summary
  - IT professional with 4.5 years of experience in Software Design and
    Development for enterprise level products with prestigious and
@@ -130,6 +130,8 @@ Technologies & Languages: Java(Spring MCV, Hibernate).MySQL.
 
 ## Personal Details
 **Date of Birth :** 28h August 1994
+
 **Languages :** English, Marathi, Hindi and Telugu
+
 **Address :** Flat No. 4, Floor 2nd, Bodke Heights, Behind Sonai Managal Karyalay, Pawar Nager, Kalewadi Phata, Thergaon, Pune-411033 .
 
